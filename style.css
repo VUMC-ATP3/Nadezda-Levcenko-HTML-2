@@ -1,0 +1,79 @@
+/*Pēc klases*/
+.note{color:blue;
+font-size: 20px;}
+/*Pēc elementa nosaukuma*/
+h3 {
+    color: black;
+    text-decoration: underline;
+    line-height: 3px;
+}
+
+h1 {
+color: navy;
+text-align: center;
+line-height: 3px;
+}
+
+h2 {
+color: grey;
+text-align: center;
+}
+
+h4 {
+color: black;
+text-align: center;
+font-style: italic;
+font-size: 20px;
+line-height: 3px;
+}
+
+.full {
+    border-style: groove;
+    display: grid;
+    grid-template-columns: 20% 80%;
+  }
+.left {
+   background-color: pink;
+}
+
+
+.right {
+    background-color: grey;
+}
+
+.lefty {
+text-align: center;
+line-height: 3px;
+}
+
+.fully {
+display: grid;
+grid-template-columns: 20% 80%;
+line-height: 3px;
+}
+
+
+.righty {
+line-height: 3px;
+}
+
+.center {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ line-height: 3px;
+}
+.cent {
+text-align: center;
+}
+
+.ind {
+text-indent: 30px;
+}
+.title {
+font-weight: bold;
+}
+
+.div {
+line-height: 3px;
+}
